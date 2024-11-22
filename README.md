@@ -34,6 +34,10 @@ NVMe: Los protocolos aplicados a unidades SSD en ranuras M.2 o PCIe, proporciona
 <h2>Facilita el enlace físico a redes a través de un cable LAN. Normalmente soporta velocidades de 1 Gbps o superiores.</h2>
 <img src="puerto_ethernet.jpg" alt="Puerto ethernet">
 
-<h1>Puertos de Red Ethernet</h1>
-<h2>Facilita el enlace físico a redes a través de un cable LAN. Normalmente soporta velocidades de 1 Gbps o superiores.</h2>
-<img src="puerto_ethernet.jpg" alt="Puerto ethernet">
+<h1>Conectores internos y externost</h1>
+<h2>Para dispositivos periféricos como teclados, ratones, discos externos. Ademas de entradas HDMI, HD Audio, etc.</h2>
+<img src="Conectores-placa-base.webp" alt="Conectores">
+
+<h1>Pila de la BIOS</h1>
+<h2>Conserva las configuraciones de la BIOS/UEFI (como el cronómetro del sistema y las modificaciones de hardware) cuando el dispositivo se encuentra en silencio y se ha desvinculado de la fuente de energía.</h2>
+<img src="Pila Bios.jpg" alt="Pila Bios">
