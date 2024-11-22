@@ -3,11 +3,12 @@
 
 <h1>Partes</h1>
 
-<h1>Procesador</h1>
+<ul>
+<li><h1>Procesador</h1></li>
 <h2>Es el núcleo del ordenador, responsable de llevar a cabo las instrucciones del sistema operativo y los programas informáticos. Ejecuta cálculos y administra procesos esenciales.</h2>
 <img src="Procesador de una placa base.webp" alt="Procesador">
 
-<h1>Xipset</h1>
+<li><h1>Xipset</h1></li>
 <h2>Históricamente, administraba la comunicación a gran velocidad entre el procesador, la memoria RAM y la tarjeta de video. Actualmente, sus funciones se encuentran incorporadas en la CPU de muchos sistemas actuales.</h2>
 <img src="chipset-amd.jpg" alt="Xipset">
 
@@ -40,6 +41,6 @@ NVMe: Los protocolos aplicados a unidades SSD en ranuras M.2 o PCIe, proporciona
 <h2>Para dispositivos periféricos como teclados, ratones, discos externos. Ademas de entradas HDMI, HD Audio, etc.</h2>
 <img src="Conectores-placa-base.webp" alt="Conectores">
 
-<h1>Pila de la BIOS</h1>
+<h1>Pila de la BIOS</h1></ul>
 <h2>Conserva las configuraciones de la BIOS/UEFI (como el cronómetro del sistema y las modificaciones de hardware) cuando el dispositivo se encuentra en silencio y se ha desvinculado de la fuente de energía.</h2>
 <img src="Pila Bios.jpg" alt="Pila Bios">
