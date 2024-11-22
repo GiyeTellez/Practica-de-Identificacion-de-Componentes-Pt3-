@@ -17,11 +17,23 @@
 <h2>Es un dispositivo de firmware que guarda el software indispensable para poner en marcha el equipo y cargar el sistema operativo.</h2>
 <img src="bios-ordenador-2978660.webp" alt="Bios">
 
+<h1>Ranuras de expansiión</h1>
+<h2>Son conectores que permiten el montaje de tarjetas extra que amplían las capacidades del sistema.</h2>
+<img src="ranuras-expansion.webp" alt="Ranuras de expansion">
 
+<h1>Conectores fuente de alimentación</h1>
+<h2>Facilitan la entrada de energía eléctrica a la placa base a traves de la fuente de alimentación</h2>
+<img src="v4-460px-Install-a-Power-Supply-Step-10.jpg" alt="Conectores a la Fuente">
 
+<h1>Puertos de almacenaje</h1>
+<h2>SATA: Incorpora discos duros y SSD convencionales. Proporciona velocidades hasta 6 Gbps.
+NVMe: Los protocolos aplicados a unidades SSD en ranuras M.2 o PCIe, proporcionan velocidades notablemente superiores al emplear canales PCIe directos.</h2>
+<img src="SATA.jpg" alt="Sata">
 
+<h1>Puertos de Red Ethernet</h1>
+<h2>Facilita el enlace físico a redes a través de un cable LAN. Normalmente soporta velocidades de 1 Gbps o superiores.</h2>
+<img src="puerto_ethernet.jpg" alt="Puerto ethernet">
 
-
-
-
-
+<h1>Puertos de Red Ethernet</h1>
+<h2>Facilita el enlace físico a redes a través de un cable LAN. Normalmente soporta velocidades de 1 Gbps o superiores.</h2>
+<img src="puerto_ethernet.jpg" alt="Puerto ethernet">
