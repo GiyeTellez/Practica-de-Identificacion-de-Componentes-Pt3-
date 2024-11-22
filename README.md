@@ -4,11 +4,11 @@
 <h1>Partes</h1>
 
 <ol>
-<li><h1>Procesador</h1></li>
+<h1><li>Procesador</h1></li>
 <h2>Es el núcleo del ordenador, responsable de llevar a cabo las instrucciones del sistema operativo y los programas informáticos. Ejecuta cálculos y administra procesos esenciales.</h2>
 <img src="Procesador de una placa base.webp" alt="Procesador">
 
-<li><h1>Xipset</h1></li>
+<h1><li>Xipset</h1></li>
 <h2>Históricamente, administraba la comunicación a gran velocidad entre el procesador, la memoria RAM y la tarjeta de video. Actualmente, sus funciones se encuentran incorporadas en la CPU de muchos sistemas actuales.</h2>
 <img src="chipset-amd.jpg" alt="Xipset">
 
