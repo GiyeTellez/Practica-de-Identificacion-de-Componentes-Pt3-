@@ -1,6 +1,8 @@
 <h1>Placa Base</h1>
 <img src="placa base entera.jpg" alt="Placa base entera">
 
+<h1>Partes</h1>
+
 <h1>Procesador</h1>
 <h2>Es el núcleo del ordenador, responsable de llevar a cabo las instrucciones del sistema operativo y los programas informáticos. Ejecuta cálculos y administra procesos esenciales.</h2>
 <img src="Procesador de una placa base.webp" alt="Procesador">
