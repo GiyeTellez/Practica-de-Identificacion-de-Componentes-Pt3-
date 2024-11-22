@@ -1,7 +1,7 @@
 <h1>Placa Base</h1>
 <img src="placa base entera.jpg" alt="Placa base entera">
 
-<h1>Procesadors</h1>
+<h1>Procesador</h1>
 <h2>Es el núcleo del ordenador, responsable de llevar a cabo las instrucciones del sistema operativo y los programas informáticos. Ejecuta cálculos y administra procesos esenciales.</h2>
 <img src="Procesador de una placa base.webp" alt="Procesador">
 
@@ -34,7 +34,7 @@ NVMe: Los protocolos aplicados a unidades SSD en ranuras M.2 o PCIe, proporciona
 <h2>Facilita el enlace físico a redes a través de un cable LAN. Normalmente soporta velocidades de 1 Gbps o superiores.</h2>
 <img src="puerto_ethernet.jpg" alt="Puerto ethernet">
 
-<h1>Conectores internos y externost</h1>
+<h1>Conectores internos y externos</h1>
 <h2>Para dispositivos periféricos como teclados, ratones, discos externos. Ademas de entradas HDMI, HD Audio, etc.</h2>
 <img src="Conectores-placa-base.webp" alt="Conectores">
 
